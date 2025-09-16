@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collins Ndinya</h1>
-<h3 align="center">💻 Web Developer | JavaScript Node.js & Express.js Enthusiast | Graphic Design | <br> I’m passionate about building scalable web applications and creating beautiful digital designs. Currently focused on mastering backend development with Node.js & Express.js, while also expanding my skills in modern frontend frameworks.</h3>
+<h3 align="center">💻 Web Developer | JavaScript Node.js & Express.js Enthusiast | Graphic Design | <br> I’m passionate about building scalable web applications and creating beautiful digital designs. <br> Currently focused on mastering backend development with Node.js & Express.js, while also expanding my skills in modern frontend frameworks.</h3>
 
 - 🌱 I’m currently learning Express.js, APIs, and full-stack workflows.
 
